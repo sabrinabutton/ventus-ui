@@ -22,7 +22,7 @@ function NavBar() {
         <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-end">
           <Navbar.Text>
-            Signed in as: <a href="/login">Admin</a>
+            Signed in as: <a href="/login">Public</a>
           </Navbar.Text>
         </Navbar.Collapse>
       </Container>
